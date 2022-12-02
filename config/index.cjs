@@ -25,12 +25,10 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'ey5B78v-lVLFQ5SdWsErPuKK5PYplTPgQyuk0O6w0cg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '03-08',
+      horoscopeDate: '12-07',
       festivals: [
-       
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '节日', name: '相识纪念日', year: '2021', date: '02-10',
+          type: '节日', name: '相识纪念日', year: '2021', date: '2-10',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
